@@ -1,0 +1,8 @@
+{
+  "name": "rn-template-typescript-eslint-navigation",
+  "version": "0.0.1",
+  "description": "React Native Typescript Template configured with ESlint",
+  "repository": "git@github.com:SpringNO26/RNTS-template-eslint.git",
+  "author": "SpringJet <SpringJet@proton.me>",
+  "license": "MIT"
+}
